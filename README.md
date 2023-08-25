@@ -1,13 +1,2 @@
-# Stock-market-closing-price-prediction
-One of the most important task today’s generation is concerned about is predicting
-the stock markets, and we all know that the stock market is highly
-affected by the current affairs. In this study, we suggested a forecasting model
-for predicting sentiment around stock prices of Bank-Nifty. We map feelings
-to see if there’s a link between news-predicted sentiment and the original stock
-price, as well as to test the efficient market theory. Finding future stock trends
-is a difficult endeavour since stock trends are influenced by a variety of factors.
-Presumably, news items and stock prices are connected. Furthermore, news has
-the potential to change market patterns. As a result, we set out to investigate
-this link in-depth and see if stock movements can be forecast using news articles
-and prior price histories. We have used a pretrained FinBert model for the
-sentiment analysis and a LSTM for the stock price prediction.
+# Stock-market-closing-price-prediction-with-contemporary-affairs
+In the contemporary era, predicting stock markets holds immense significance, given their sensitivity to current events. This study proposes a forecasting model aimed at predicting sentiment encompassing Bank-Nifty stock prices. By associating emotions with market dynamics, the research explores the connection between news-projected sentiment and actual stock prices, thus scrutinizing the efficient market theory. Anticipating future stock trends proves challenging due to the multitude of influencing factors. Notably, news content holds potential to alter market trajectories. Hence, the investigation delves into this correlation to ascertain if news articles and historical prices can foresee stock movements. Employing a pretrained FinBert model for sentiment analysis and a LSTM for stock price prediction, the study seeks to unravel this intricate linkage.
